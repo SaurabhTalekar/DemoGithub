@@ -8,6 +8,7 @@ public class ContactTest {
 	@Test
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
+		System.out.println("second commit");
 	}
 	
 	public static void main(String rag) {
