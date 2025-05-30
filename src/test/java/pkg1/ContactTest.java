@@ -13,9 +13,8 @@ public class ContactTest {
 	}
 	
 	public static void main(String rag) {
-		System.out.println("Execute CreateContactTest");
-		System.out.println("Added in Github");
-		System.out.println("Added in Working der");
+		System.out.println("Added from ***SAM**");
+		
 		
 	}
 	
