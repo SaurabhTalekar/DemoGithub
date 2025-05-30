@@ -9,7 +9,8 @@ public class ContactTest {
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
 		System.out.println("second commit");
-		System.out.println("Added in Github");
+		System.out.println("Egit");
+	
 	}
 	
 	public static void main(String rag) {
