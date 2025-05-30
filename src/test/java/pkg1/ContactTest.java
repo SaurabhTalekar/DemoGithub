@@ -9,11 +9,17 @@ public class ContactTest {
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
 		System.out.println("second commit");
-		System.out.println("Added in Github");
+		System.out.println("Egit");
+	
 	}
 	
 	public static void main(String rag) {
+<<<<<<< HEAD
 		System.out.println("Added from ***SAM**");
+=======
+		System.out.println("Execute CreateContactTest");
+		System.out.println("Again Added in Github");
+>>>>>>> 0afac443eddbfb160b4b2ea50e1b9ba23252edc9
 		
 		
 	}
