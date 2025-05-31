@@ -11,12 +11,22 @@ public class ContactTest {
 		System.out.println("second commit");
 		
 
+<<<<<<< HEAD
 		System.out.println("sam addding");
 <<<<<<< HEAD
 		System.out.println("Saurabh Adding");
 =======
 		
 >>>>>>> 11eb597c4141ea9e741a2b615bba252744f8b436
+=======
+s
+		System.out.println("sam addding 8888");
+		
+
+		
+		System.out.println("Saurabh Adding");
+
+>>>>>>> c48b22422c42312d57f243a10b26bba8c2a5a686
 		
 
 	
