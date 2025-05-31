@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class ContactTest {
 
-	
+		
 	@Test
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
@@ -15,7 +15,7 @@ public class ContactTest {
 	
 	public static void main(String rag) {
 
-		System.out.println("Added from ***SAM**22");
+		System.out.println("Added from ***SAM**##");
 		System.out.println("Execute CreateContactTest");
 		System.out.println("Again Added in Github");
 
