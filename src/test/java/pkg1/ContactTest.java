@@ -10,12 +10,11 @@ public class ContactTest {
 		System.out.println("Execute CreatecontactTest");
 		System.out.println("second commit");
 		
-<<<<<<< HEAD
+
 		System.out.println("sam addding again");
 		
-=======
 		System.out.println("This was added by saurabh1");
->>>>>>> 685a234141ec9524ce1308ec0c8a820769622eb9
+
 	
 	}
 	
