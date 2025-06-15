@@ -9,7 +9,7 @@ public class ContactTest {
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
 		System.out.println("this is new added from sel_pj");
-		
+		System.out.println("this is new added from sam");
 		
 
 		
