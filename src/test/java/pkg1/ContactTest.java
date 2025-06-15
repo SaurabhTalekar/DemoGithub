@@ -19,6 +19,7 @@ public class ContactTest {
 	public static void main(String rag) {
 	
 		System.out.println("sam addding again");
+		System.out.println("this is new added from sam");
 	}
 	
 }
