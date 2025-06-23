@@ -8,24 +8,18 @@ public class ContactTest {
 	@Test
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
-		System.out.println("second commit");
 		
 
-		System.out.println("sam addding again");
+		System.out.println("sam addding");
 		
-		System.out.println("This was added by saurabh1");
-		System.out.println("This was added by saurabh againn again");
-
+	
 	
 	}
 	
 	public static void main(String rag) {
 
-		System.out.println("Added from ***SAM**##");
-		System.out.println("Execute CreateContactTest");
-		System.out.println("Again Added in Github");
-
-		
+		System.out.println("sam addding again");
+		System.out.println("this is new added from sam");
 		
 	}
 	
