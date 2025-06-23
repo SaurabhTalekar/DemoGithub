@@ -8,8 +8,7 @@ public class ContactTest {
 	@Test
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
-
-		System.out.println("Added by saurabh");
+		System.out.println("sam addding");
 		
 	
 	}
@@ -18,6 +17,7 @@ public class ContactTest {
 	
 		System.out.println("sam addding again");
 		System.out.println("this is new added from sam");
+
 	}
 	
 }
