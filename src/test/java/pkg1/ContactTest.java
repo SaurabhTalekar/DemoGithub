@@ -8,12 +8,6 @@ public class ContactTest {
 	@Test
 	public void Createcontact() {
 		System.out.println("Execute CreatecontactTest");
-		System.out.println("this is new added from sel_pj");
-		System.out.println("this is new added from sam");
-		
-
-		
-
 	}
 	
 	public static void main(String rag) {
