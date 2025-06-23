@@ -17,6 +17,9 @@ public class ContactTest {
 	
 		System.out.println("sam addding again");
 		System.out.println("this is new added from sam");
+		
+		
+		System.out.println("this is new added from sam=====> 2 ok");
 
 	}
 	
